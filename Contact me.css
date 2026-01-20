@@ -1,0 +1,75 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family:"Lato",sans-serif;
+    box-sizing: border-box;
+}
+#navbar{
+    background-color:black;
+    color:white;
+    display:flex;
+    justify-content:space-between;
+    padding:15px;
+    width:100%;
+    position:fixed;
+  
+}
+#menu{
+    text-align:right;
+    display:inline-block;
+}
+#name{
+    font-size:17px;
+    display:inline-block;
+}
+.nav{
+    margin-right:20px;
+    text-decoration:none;
+    color:white;
+    font-size:14px;
+}
+/*Body*/
+body{
+    background-color:#1e6c94;
+    color:white;
+    
+}
+ #aboutbg{ height:340px;
+    width:100%; 
+    text-align:center;
+    background-image:url("aboutmebg.jpg");
+        background-size: cover; }
+#contactme{
+   padding-top:140px;
+    font-size:90px;
+    font-style:italic;
+}
+#div1{
+    color:white;
+}
+.heading{
+    font-style:italic;
+    font-size:25px;
+    padding-left:70px;
+    padding-top:40px;
+}
+.paragraph{
+    font-style:italic;
+    font-size:18px;
+    color:white;
+    padding-left:70px;
+    text-decoration:none;
+    padding-top:10px;
+}
+a{
+    color:white;
+}
+footer{
+    background-color:#3d3d3d;
+    color:white;
+    text-align:center;
+    padding:15px;
+    font-size:14px;
+    width:100%;
+    font-style:italic;
+}

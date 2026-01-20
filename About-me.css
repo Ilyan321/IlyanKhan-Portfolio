@@ -1,0 +1,117 @@
+*{
+    margin:0px;
+    color:white;
+    padding:0px;
+    font-family:"Lato",sans-serif;
+    box-sizing: border-box;
+}
+#navbar{
+    background-color:black;
+    color:white;
+    display:flex;
+    justify-content:space-between;
+    padding:15px;
+    width:100%;
+    position:fixed;
+  
+}
+#menu{
+    text-align:right;
+    display:inline-block;
+}
+#name{
+    font-size:17px;
+    display:inline-block;
+}
+.nav{
+    margin-right:20px;
+    text-decoration:none;
+    color:white;
+    font-size:14px;
+}
+/*Body*/
+body{
+    background-color:#1e6c94;
+    
+}
+ #aboutbg{ height:340px;
+    width:100%; 
+    text-align:center;
+    background-image:url("aboutmebg.jpg");
+        background-size: cover; }
+#aboutme{
+   padding-top:140px;
+    font-size:90px;
+    font-style:italic;
+}
+#div1{
+    color:white;
+}
+#div2{
+    display:flex;
+    padding-left:62px;
+    padding-top:20px;
+}
+#name1{
+    display:block;
+    padding-left:30px;
+    padding-top:10px;
+    font-style:italic;
+    font-size:30px;
+}
+#details{
+    font-size:16px;
+    font-style:normal;
+    padding-right:20px;
+}
+#h1{
+    padding-left:62px;
+}
+#p1{
+    padding-left:62px;
+    padding-top:10px;
+}
+#skill{
+    padding-left:62px;
+    display:flex;
+    
+    
+}
+#skills{
+    padding-left:250px;
+}
+#quote{
+    text-align:center;
+}
+footer{
+    text-align:center;
+    background-color:#3d3d3d;
+    padding:15px;
+    font-style:italic;
+    width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
