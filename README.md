@@ -29,8 +29,10 @@ The site features several key engineering and web-based applications:
 ├── index.html            # Landing page with core project highlights
 ├── About-me.html         # Academic background and technical skills
 ├── Projects.html         # Comprehensive gallery of engineering work
+├── Certificates.html     # Academic and professional achievements
 ├── Contact me.html       # Contact portal and social media links
 ├── Style.css             # Global styles and layout configurations
 ├── About-me.css          # Styling for the personal biography section
 ├── Projects.css          # CSS Grid/Flexbox layouts for project cards
+├── Certificates.css      # Styling for certification display
 └── Contact me.css        # Specialized styling for contact forms
