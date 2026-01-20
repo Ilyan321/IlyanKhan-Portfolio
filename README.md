@@ -7,7 +7,7 @@ I am a 2nd-year Computer Systems Engineering (CSE) student at **Quaid-Awam Unive
 
 ## 🛠️ Web Development & Tech Stack
 This portfolio demonstrates my proficiency in front-end development and core engineering principles:
-* **Frontend:** HTML5, CSS3 (Flexbox, Grid, Responsive Design)
+* **Frontend:** HTML5, CSS3 (Flexbox, Grid)
 * **Engineering Languages:** C/C++
 * **Operating Systems:** Experience with Kali Linux for development environments
 * **Methodology:** Clean code, modular CSS, and semantic HTML structure.
@@ -20,7 +20,7 @@ The site features several key engineering and web-based applications:
 * **Attendance & Hostel Management:** Practical programs built to solve real-world organizational challenges.
 
 ## 💻 Portfolio Features
-* **Responsive Layout:** Fully optimized for mobile, tablet, and desktop viewports.
+* **Responsive Layout:** Currently only for Desktop.
 * **Multi-Page Navigation:** Distinct sections for Projects, About, and Contact for a professional user experience.
 * **External Integration:** Links to project reports and source code hosted on Google Drive and Netlify.
 
